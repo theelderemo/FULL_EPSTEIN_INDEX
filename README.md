@@ -1,3 +1,15 @@
+---
+license: mit
+language:
+- en
+tags:
+- epstein
+- epstein-data
+- dataset
+- fbi
+- journalism
+---
+
 # FULL_EPSTEIN_INDEX
 
 <div style="padding: 0.75rem 1rem; border-radius: 0.5rem; background-color: #2f0000; color: #ffd4d4; font-weight: 600; border: 1px solid #ff9999;">
