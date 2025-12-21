@@ -18,7 +18,7 @@ CONTENT WARNING: This repository contains graphic and highly sensitive material 
 
 ## Overview
 
-Note. There is ALOT of data. It will take a while for me to process all of it, and upload it. It will initially be hosted on my [Hugging Face account](https://huggingface.co/datasets/theelderemo/FULL_EPSTEIN_INDEX) and will be migrated here once the dataset has been completed. You can currently look through my [original dataset](https://github.com/theelderemo/Epstein-files) that has the 20k emails and other files that were released in november for now.
+Note. There is ALOT of data. It will take a while for me to process all of it into a dataset. You can for now view ALL files, as raw pdf's, [here](https://www.dropbox.com/scl/fo/mu2ebqnutbehj5ix063hi/AO_gd0QCu7dopIc5KulYqcs?rlkey=eoqzz5a8x9v1qsjotxmwax8ed&st=jvan3oww&dl=0). Note, to keep bots out, the pass for the dropbox is my github username. The dataset will initially be hosted on my [Hugging Face account](https://huggingface.co/datasets/theelderemo/FULL_EPSTEIN_INDEX) and will be migrated here once the dataset has been completed. You can currently look through my [original dataset](https://github.com/theelderemo/Epstein-files) that has the 20k emails and other files that were released in november for now.
 
 **FULL_EPSTEIN_INDEX** is a comprehensive, unified research archive aggregating public releases related to the Jeffrey Epstein estate and associated investigations. 
 
