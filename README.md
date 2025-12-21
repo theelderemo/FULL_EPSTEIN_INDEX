@@ -42,7 +42,7 @@ The repository is organized to facilitate open-source intelligence (OSINT) analy
     * **Documents:** PDFs of flight logs, contact books, and legal evidence lists.
     * **Video:** MP4 files of BOP facility footage (Aug 2019) and other evidence.
     * **Audio:** WAV files of witness interviews and proffer sessions.
-* `transcripts/`: (Optional) Individual text files for specific media assets.
+* `transcripts/`: Individual text files for specific media assets.
 
 ## Preprocessing & Methodology
 
