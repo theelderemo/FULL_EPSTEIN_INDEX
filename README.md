@@ -20,6 +20,8 @@ CONTENT WARNING: This repository contains graphic and highly sensitive material 
 
 Note. There is ALOT of data. It will take a while for me to process all of it into a dataset. You can for now view ALL files, as raw pdf's, [here](https://www.dropbox.com/scl/fo/mu2ebqnutbehj5ix063hi/AO_gd0QCu7dopIc5KulYqcs?rlkey=eoqzz5a8x9v1qsjotxmwax8ed&st=jvan3oww&dl=0). Note, to keep bots out, the pass for the dropbox is my github username. The dataset will initially be hosted on my [Hugging Face account](https://huggingface.co/datasets/theelderemo/FULL_EPSTEIN_INDEX) and will be migrated here once the dataset has been completed. You can currently look through my [original dataset](https://github.com/theelderemo/Epstein-files) that has the 20k emails and other files that were released in november for now.
 
+Update: View raw files [here](https://drive.google.com/drive/folders/18tIY9QEGUZe0q_AFAxoPnnVBCWbqHm2p?usp=sharing)
+
 **FULL_EPSTEIN_INDEX** is a comprehensive, unified research archive aggregating public releases related to the Jeffrey Epstein estate and associated investigations. 
 
 This repository expands upon earlier archives (such as the initial November 2025 House Oversight release) by integrating the **First Phase of Declassified Epstein Files** released by the Department of Justice. Unlike previous datasets restricted to scanned emails, this index combines:
@@ -70,6 +72,7 @@ This dataset is intended for **research, investigative journalism, and legal ana
 This index aggregates public domain releases from:
 1.  **U.S. House Committee on Oversight and Accountability** (Nov 12, 2025 Release)
 2.  **U.S. Department of Justice** (First Phase Declassification, Flight Logs, Maxwell Proffer Material, Dec 2025 Release)
+3.  **All FBI, Border Patrol, and other government body releases**
 
 ## Legal & Disclaimer
 
