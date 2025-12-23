@@ -18,7 +18,8 @@ tags:
 
 Note. There is ALOT of data. OCR made mistakes scanning the files. So that being said, there is a lot of noise in the dataset, whether it be from OCR taking words out of normal 'pictures' from the pdf's, or character recognition failure. Feel free to contribute, clean up, add too, etc. 
 
-View the [dataset](https://huggingface.co/datasets/theelderemo/FULL_EPSTEIN_INDEX)
+View the [dataset](https://huggingface.co/datasets/theelderemo/FULL_EPSTEIN_INDEX)  
+
 View ALL raw files [here.](https://drive.google.com/drive/folders/18tIY9QEGUZe0q_AFAxoPnnVBCWbqHm2p?usp=drive_link) This includes all releases, from all government bodies, from all timelines.
 
 This is a comprehensive, unified research archive aggregating public releases related to the Jeffrey Epstein estate and associated investigations.
